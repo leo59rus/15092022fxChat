@@ -61,7 +61,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                ru.gb.koval.javafxchat15092022/ru.gb.koval.javafxchat15092022.client.HelloApplication
+                                ru.gb.koval.javafxchat15092022/ru.gb.koval.javafxchat15092022.client.ChatClientApp
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
